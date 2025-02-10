@@ -19,3 +19,18 @@ You may also need the requests library for making HTTP requests. Install it usin
 ```bash
 pip install requests
 ```
+## Example of Web Scraping
+
+The `scrape_rider.py` script demonstrates basic web scraping, including:
+
+- Sending HTTP requests to retrieve web pages.
+- Parsing the HTML content using BeautifulSoup.
+- Extracting specific data from the page (e.g., text, links, or tables).
+
+### Usage
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where `scrape_rider.py` is located.
+3. Run the script by typing:
+   ```bash
+   python scrape_rider.py
