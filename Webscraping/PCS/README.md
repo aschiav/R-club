@@ -11,3 +11,9 @@ BeautifulSoup is a Python library used for parsing HTML and XML documents. To in
 
 ```bash
 pip install beautifulsoup4
+
+### 2. Install Requests
+You may also need the requests library for making HTTP requests. Install it using:
+
+```bash
+pip install requests
