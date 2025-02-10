@@ -34,3 +34,5 @@ The `scrape_rider.py` script demonstrates basic web scraping, including:
 3. Run the script by typing:
    ```bash
    python scrape_rider.py
+   ```
+4. Try entering "Sepp Kuss" and "2024" for an example. 
