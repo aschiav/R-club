@@ -1,0 +1,43 @@
+# Installing BeautifulSoup
+
+## Mac
+
+1. **Open Terminal:**
+   - Launch the Terminal application on your Mac.
+
+2. **Install pip (if not installed):**
+   - Check if `pip` is installed by typing `pip --version`.
+   - If not installed, install `pip` using `sudo easy_install pip`.
+
+3. **Install BeautifulSoup:**
+   - Type `pip install beautifulsoup4` and press Enter.
+   - This command will download and install BeautifulSoup and its dependencies.
+
+4. **Verify Installation:**
+   - To verify the installation, type `python` to open the Python shell.
+   - Then, type `from bs4 import BeautifulSoup`.
+   - If no errors are shown, BeautifulSoup is successfully installed.
+
+## Windows
+
+1. **Open Command Prompt:**
+   - Open Command Prompt by typing `cmd` in the Windows search bar and selecting Command Prompt.
+
+2. **Install pip (if not installed):**
+   - Check if `pip` is installed by typing `pip --version`.
+   - If not installed, download `get-pip.py` from https://bootstrap.pypa.io/get-pip.py.
+   - Navigate to the directory containing `get-pip.py` in Command Prompt and run `python get-pip.py`.
+
+3. **Install BeautifulSoup:**
+   - Type `pip install beautifulsoup4` and press Enter.
+   - This command will download and install BeautifulSoup and its dependencies.
+
+4. **Verify Installation:**
+   - To verify the installation, type `python` to open the Python shell.
+   - Then, type `from bs4 import BeautifulSoup`.
+   - If no errors are shown, BeautifulSoup is successfully installed.
+
+## Additional Notes:
+- Make sure you have Python installed and added to your system PATH.
+- Use `sudo` on Mac if you encounter permission issues during installation.
+- Always ensure pip is up to date (`pip install --upgrade pip`) before installing any package.
