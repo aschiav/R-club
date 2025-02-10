@@ -9,6 +9,5 @@ Before you run the script, you need to install the required Python packages.
 ### 1. Install BeautifulSoup
 BeautifulSoup is a Python library used for parsing HTML and XML documents. To install it, follow the instructions below:
 
-#### Mac
 ```bash
 pip install beautifulsoup4
